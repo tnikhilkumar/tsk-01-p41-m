@@ -22,7 +22,7 @@ Getting Started:
 1. Clone the Repository
 
 git clone https://github.com/tnikhilkumar/tsk-01-p41-m.git
-cd simple-time-service
+
 
 2. Build the Docker Image
 
